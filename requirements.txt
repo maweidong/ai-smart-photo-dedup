@@ -1,0 +1,7 @@
+# AI Smart Photo Dedup Dependencies
+imagehash==5.3.0
+Pillow==10.4.0
+numpy==1.26.4
+scikit-image==0.24.0
+tqdm==4.66.5
+opencv-python==4.10.0.84
